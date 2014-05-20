@@ -1,17 +1,4 @@
-/**
- * Zazar Presentation Framework
- *
- * Library: jquery.zazar.js
- * 
- * Version: 2.0.0
- * (C) 2011-2012 Zazar Ltd
- * 
- * Description: Framework function and effect library
- * 
- * History:
- * 2.0.0 - First commercial release
- *
- **/
+
 
 
 (function($){
